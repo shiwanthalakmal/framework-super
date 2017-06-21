@@ -14,7 +14,7 @@
         <module>framework-utils</module>
         <module>framework-web-element-core</module>
         <module>framework-ui-core</module>
-        <module>framework-ui-demo</module>
+        <module>framework-ui-notebook</module>
       </modules>
     </profile>
   </profiles>
